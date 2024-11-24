@@ -1,19 +1,15 @@
-Hi 👋 My name is khaled almorse
-===============================
-<h3>I'am Backend Developer Using NodeJs🛢</h3>
-<img  align="center" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" >
-
-
-This is brief description about me...
--------------------------------------
-
-* 🌍  I'm based in Mansoura
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)
-* ✉️  You can contact me at [khaledmanea0077@gmail.com](mailto:khaledmanea0077@gmail.com)
-* 🤝  I'm open to collaborating on back-end projects
+<h1 align="center">Hi 👋 My name is khaled almorse</h1>
+<h3 align="center">I'am Backend Developer Using NodeJs</h3>
+<img  align="right" width="450px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" >
 
 <a href="https://www.github.com/KhaledAlmorse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KhaledAlmorse?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)
+* ✉️  You can contact me at [My Email](mailto:khaledmanea0077@gmail.com)
+* 🤝  I'm open to collaborating on back-end projects
+
+
 
 ### Skills
 
