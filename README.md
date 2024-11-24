@@ -8,7 +8,10 @@ This is brief description about me...
 * 🌍  I'm based in Mansoura
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)
 * ✉️  You can contact me at [khaledmanea0077@gmail.com](mailto:khaledmanea0077@gmail.com)
-* 🤝  I'm open to collaborating on back-end projects
+* 🤝  I'm open to collaborating on back-end projects
+
+<a href="https://www.github.com/KhaledAlmorse" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/KhaledAlmorse?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
 ### Skills
 
