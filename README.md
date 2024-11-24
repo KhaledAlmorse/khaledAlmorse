@@ -8,7 +8,7 @@ This is brief description about me...
 * 🌍  I'm based in Mansoura
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)
 * ✉️  You can contact me at [khaledmanea0077@gmail.com](mailto:khaledmanea0077@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on back-end projects
+* 🤝  I'm open to collaborating on back-end projects
 
 ### Skills
 
