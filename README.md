@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋 My name is khaled almorse</h1>
-<h3 align="center">I'am Backend Developer Using NodeJs</h3>
+<h3 align="center">-I'm a 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a strong focus on building scalable and efficient systems using Node.js, Express, and RESTful APIs.
+
+-I hold a 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿’𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 from the Faculty of Computers and Information (2025).
+
+-𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗮𝗻 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗿𝗮𝗶𝗻𝗲𝗲 𝗮𝘁 𝗜𝗧𝗜 (𝟵-𝗺𝗼𝗻𝘁𝗵 𝗽𝗿𝗼𝗴𝗿𝗮𝗺), where I contribute to open-source projects and refine my backend development skills through hands-on, real-world applications.
+
+-𝗜 𝗲𝗻𝗷𝗼𝘆 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹, 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀—𝗲𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗹𝘆 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘁𝗵𝗮𝘁 𝘀𝗼𝗹𝘃𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 in healthcare, education, and management. I’ve worked on several projects including 𝗛𝗼𝘁𝗲𝗹 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗣𝗜, 𝗔𝗦𝗗 𝗦𝗺𝗮𝗿𝘁𝗖𝗮𝗿𝗲 𝗔𝘂𝘁𝗶𝘀𝗺 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺, 𝗮𝗻𝗱 𝗗𝗼𝗰𝘁𝗼𝗿 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺.
+add icon</h3>
 <a href="https://www.github.com/KhaledAlmorse" target="_blank" rel="noreferrer">
 <br>
 <img  align="right" width="450px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" >
