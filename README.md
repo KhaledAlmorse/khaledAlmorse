@@ -52,9 +52,8 @@
 <a href="https://www.linkedin.com/in/khaled-elmorse-manea-53863623b" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/></a>
 </p>
 
----
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledAlmorse&show_icons=true&theme=radical" alt="KhaledAlmorse GitHub Stats" />
-</p>
+###<p align="center">
+###  <img src="https://github-readme-stats.vercel.app/api?username=KhaledAlmorse&show_icons=true&theme=radical" alt="KhaledAlmorse GitHub Stats" />
+###</p>
