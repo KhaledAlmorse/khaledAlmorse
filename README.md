@@ -56,5 +56,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledAlmorse&show_icons=true&count_private=true&hide_border=false&theme=dark" alt="KhaledAlmorse GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledAlmorse&show_icons=true&theme=radical" alt="KhaledAlmorse GitHub Stats" />
 </p>
