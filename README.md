@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋 My name is khaled almorse</h1>
-<h3 align="center">-I'm a 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a strong focus on building scalable and efficient systems using Node.js, Express, and RESTful APIs.
+<h1 align="center">Hi 👋, I'm Khaled Almorse</h1>
+<h3 align="center">🚀 Backend Developer | Node.js | Express | RESTful APIs</h3>
 
--I hold a 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿’𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 from the Faculty of Computers and Information (2025).
+---
 
--𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗮𝗻 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗿𝗮𝗶𝗻𝗲𝗲 𝗮𝘁 𝗜𝗧𝗜 (𝟵-𝗺𝗼𝗻𝘁𝗵 𝗽𝗿𝗼𝗴𝗿𝗮𝗺), where I contribute to open-source projects and refine my backend development skills through hands-on, real-world applications.
+### 👨‍💻 About Me  
+- 💻 I'm a **Backend Developer** focusing on building scalable and efficient systems using **Node.js**, **Express**, and **RESTful APIs**.  
+- 🎓 I hold a **Bachelor’s degree in Computer Science (2025)** from the Faculty of Computers and Information.  
+- 🚀 Currently an **Open Source Trainee at ITI (9-month program)**, contributing to open-source projects and improving backend skills through real-world applications.  
+- 🛠️ Passionate about building **practical applications**—especially systems in **healthcare, education, and management**.  
+- 📌 Worked on multiple projects including **Hotel Booking API**, **ASD SmartCare Autism Platform**, and **Doctor Booking System**.
 
--𝗜 𝗲𝗻𝗷𝗼𝘆 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹, 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀—𝗲𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗹𝘆 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘁𝗵𝗮𝘁 𝘀𝗼𝗹𝘃𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 in healthcare, education, and management. I’ve worked on several projects including 𝗛𝗼𝘁𝗲𝗹 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗣𝗜, 𝗔𝗦𝗗 𝗦𝗺𝗮𝗿𝘁𝗖𝗮𝗿𝗲 𝗔𝘂𝘁𝗶𝘀𝗺 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺, 𝗮𝗻𝗱 𝗗𝗼𝗰𝘁𝗼𝗿 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺.
-add icon</h3>
+---
+
 <a href="https://www.github.com/KhaledAlmorse" target="_blank" rel="noreferrer">
-<br>
-<img  align="right" width="450px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" >
-<br>
+  <img align="right" width="420px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF">
+</a>
 
-  <img
-src="https://img.shields.io/github/followers/KhaledAlmorse?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+### 📫 Contact  
+- 🖥️ Portfolio (LinkedIn): **[Click Here](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)**  
+- ✉️ Email: **[khaledmanea0077@gmail.com](mailto:khaledmanea0077@gmail.com)**  
+- 🤝 Open to collaborating on **Backend Projects**
 
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)
-* ✉️  You can contact me at [My Email](mailto:khaledmanea0077@gmail.com)
-* 🤝  I'm open to collaborating on back-end projects
+---
 
-
-
-### Skills
-
+### 🧰 Skills & Tools
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36"/></a>
 </p>
 
+---
 
-### Socials
+### 🌐 Socials  
+<p align="left">
+<a href="https://github.com/KhaledAlmorse" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/>
+</a>
+<a href="http://www.instagram.com/khaled_almorse" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/>
+</a>
+<a href="https://www.linkedin.com/in/khaled-manea" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
+</a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/KhaledAlmorse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/khaled_almorse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Khaled Manea" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 📊 GitHub Stats  
+<a href="https://github.com/KhaledAlmorse">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAlmorse&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages"/>
+</a>
 
-<a href="https://github.com/KhaledAlmorse" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAlmorse&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
