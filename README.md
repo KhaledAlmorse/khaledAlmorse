@@ -77,7 +77,6 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaledAlmorse&theme=tokyonight" />
 </p> -->
----
 
 ## 📈 Activity Graph
 
