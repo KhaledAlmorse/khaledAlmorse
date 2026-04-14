@@ -104,9 +104,6 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
   <a href="mailto:khaledelmorsemanea@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" title="Gmail"/></a>
 </p>
 
-<p align="center">
-  📫 <strong>khaledelmorsemanea@gmail.com</strong>
-</p>
 
 ---
 
