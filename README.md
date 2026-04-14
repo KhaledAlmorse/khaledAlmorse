@@ -74,8 +74,6 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
 </p>
 
 ---
-## 📊 GitHub Stats
-
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaledAlmorse&theme=tokyonight" />
 </p> -->
@@ -89,7 +87,7 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhaledAlmorse/KhaledAlmorse/output/github-contribution-grid-snake.svg"/>
