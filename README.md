@@ -73,20 +73,6 @@ Booking system with role-based access control, JWT authentication, and optimized
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledAlmorse&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAlmorse&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhaledAlmorse&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
