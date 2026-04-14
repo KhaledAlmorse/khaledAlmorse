@@ -86,15 +86,13 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
 
 ---
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhaledAlmorse/KhaledAlmorse/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact With Me
 
 <p align="center">
   <a href="https://github.com/KhaledAlmorse"><img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub"/></a>
