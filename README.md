@@ -115,28 +115,6 @@ A booking backend with role-based access control, JWT authentication, and optimi
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledAlmorse&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAlmorse&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhaledAlmorse&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhaledAlmorse&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
