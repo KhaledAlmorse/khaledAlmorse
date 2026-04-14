@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Secure+%26+Scalable+APIs;Clean+Architecture+Enthusiast" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/KhaledAlmorse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/khaled-elmorse-manea-53863623b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:khaledelmorsemanea@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</p> -->
 
 ---
 
@@ -76,9 +76,9 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaledAlmorse&theme=tokyonight" />
-</p>
+</p> -->
 ---
 
 ## 📈 Activity Graph
