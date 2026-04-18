@@ -17,7 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend developer focused on building **scalable, secure, and high-performance systems**. I enjoy designing clean architectures, writing maintainable APIs, and solving real-world engineering challenges.
+<table>
+<tr>
+<td width="60%">
+
+I'm a backend developer focused on building **scalable, secure, and high-performance systems**.  
+I enjoy designing clean architectures, writing maintainable APIs, and solving real-world engineering challenges.
 
 - 🎓 BSc in **Computer Science**
 - 🚀 Trainee at **ITI – Open Source Applications Development**
@@ -25,6 +30,16 @@ I'm a backend developer focused on building **scalable, secure, and high-perform
 - 🔐 Strong in **Authentication, Authorization & API Security**
 - 🧠 Advocate for **Clean Architecture & Scalable Design Patterns**
 - 🌱 Continuously learning and shipping real-world backend solutions
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="180"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
