@@ -1,27 +1,4 @@
-## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
-
-I'm a backend developer focused on building **scalable, secure, and high-performance systems**.  
-I enjoy designing clean architectures, writing maintainable APIs, and solving real-world engineering challenges.
-
-- 🎓 BSc in **Computer Science**
-- 🚀 Trainee at **ITI – Open Source Applications Development**
-- 💻 Specialized in **Node.js, Express.js, MongoDB**
-- 🔐 Strong in **Authentication, Authorization & API Security**
-- 🧠 Advocate for **Clean Architecture & Scalable Design Patterns**
-- 🌱 Continuously learning and shipping real-world backend solutions
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="180"/>
-
-</td>
-</tr>
 </table><!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Khaled%20Almorse%20Manea&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20Express.js%20%7C%20RESTful%20APIs&descAlignY=58&descSize=18"/>
