@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Full-Stack+Web+Applications;Clean+Architecture+%26+SOLID+Principles" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/KhaledAlmorse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/khaled-elmorse-manea-53863623b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:khaledelmorsemanea@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
