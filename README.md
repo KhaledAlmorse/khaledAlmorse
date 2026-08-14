@@ -23,23 +23,23 @@ I'm a **Full-Stack Developer** with a strong backend foundation and hands-on exp
 
 ### 🌸 Viora Perfumes Platform
 > Responsive e-commerce frontend built with React.js — product browsing, detailed product pages, shopping cart, and optimized image loading/performance across devices.
-[Project Repository](#)
+[Project Repository](https://github.com/KhaledAlmorse/Viora)
 
 ### 📝 NoteWorkSpace App (MERN Full-Stack)
 > Full-stack collaborative note and workspace management app with a component-based React UI, protected routes, and a secure RESTful API backend using JWT authentication.
-[Project Repository](#)
+[Project Repository](https://github.com/KhaledAlmorse/NoteWorkSpaceApp)
 
 ### 📱 Social Media API
 > Scalable backend REST API supporting 500+ simulated users, with 8+ endpoints for posts, comments, likes, and user relationships — optimized feed generation and pagination.
-[Project Repository](#)
+[Project Repository](https://github.com/KhaledAlmorse/Social-APP)
 
 ### 🛒 E-commerce API V2
 > Backend REST API for product, order, and user management with 12+ endpoints, 100% JWT-secured protected routes, and reusable middleware for maintainability.
-[Project Repository](#)
+[Project Repository](https://github.com/KhaledAlmorse/Ecommerce_api_V2)
 
 ### 🧩 ASD SmartCare / Autism Support Platform
 > Graduation project — full-stack platform for autism support enabling secure user management, behavioral assessment, appointment booking, and educational resources.
-[Project Repository](#)
+[Project Repository](https://github.com/KhaledAlmorse/ASD_Final_Project)
 
 ---
 
