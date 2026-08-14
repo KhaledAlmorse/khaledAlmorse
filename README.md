@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** with hands-on experience building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. I focus on designing RESTful APIs, building responsive and dynamic user interfaces, database modeling, and implementing secure authentication and authorization.
+I'm a **Full-Stack Developer** with a strong backend foundation and hands-on experience building full-stack web applications using **Node.js, NestJS, Express.js, React.js, and Next.js**. I focus on designing RESTful APIs, building responsive and dynamic user interfaces, database modeling, and implementing secure authentication and authorization.
 
 - 🎓 BSc in **Computer Science** — Suez Canal University (Grade: Excellent, 87%)
-- 🚀 Open Source Applications Development Trainee at **ITI**, Mansoura Branch
-- 💻 Specialized in **React.js, Node.js, NestJS, Express.js, MongoDB, PostgreSQL**
+- 🚀 Open Source Development Track — **ITI, Mansoura Branch** (9-month professional training program)
+- 💻 Core stack: **Node.js, NestJS, React.js, Next.js**, with additional experience in **Express.js, MongoDB, PostgreSQL, MySQL**
 - 🔐 Strong in **Authentication, Authorization, JWT & RBAC**
 - 🧠 Advocate for **Clean Architecture, SOLID Principles & Scalable Design**
 - 🌱 Continuously learning modern **JavaScript & TypeScript** technologies
@@ -24,6 +24,10 @@ I'm a **MERN Stack Developer** with hands-on experience building full-stack web 
 ---
 
 ## 🚀 Featured Projects
+
+### 🍽️ RestoMind — AI-Powered Restaurant Waste Management Platform
+> Graduation project — a full-stack platform that helps restaurants reduce food waste through AI-driven insights, combining a NestJS/Node.js backend with a Next.js frontend to tackle a real-world business problem in the food service industry.
+🚀 [Live Demo](https://restomind.vercel.app/) | 💻 [Backend Repository](https://github.com/KhaledAlmorse/RestoMindAPI) | 🎨 [Frontend Repository](https://github.com/AhmedMohO/restomind-app) | 📑 [API Documentation](https://documenter.getpostman.com/view/28645479/2sBY4PPfia)
 
 ### 🌸 Viora Perfumes Platform
 > Responsive e-commerce frontend built with React.js — product browsing, detailed product pages, shopping cart, and optimized image loading/performance across devices.
@@ -53,10 +57,11 @@ I'm a **MERN Stack Developer** with hands-on experience building full-stack web 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" title="React.js"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" title="Redux"/></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" title="Express.js"/></a>
   <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" title="Express.js"/></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a>
