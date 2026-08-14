@@ -1,12 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Khaled%20Almorse%20Manea&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=58&descSize=18"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Full-Stack+Web+Applications;Clean+Architecture+%26+SOLID+Principles" />
-</p>
-
+<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Khaled%20Almorse%20Manea&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20NestJS%20%7C%20React.js%20%7C%20Next.js&descAlignY=58&descSize=18"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Node.js+%7C+NestJS+%7C+React.js+%7C+Next.js;Building+Full-Stack+Web+Applications;Clean+Architecture+%26+SOLID+Principles" /> </p>
 
 ---
 
