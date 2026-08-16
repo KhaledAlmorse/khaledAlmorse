@@ -18,7 +18,7 @@ I'm a **Full-Stack Developer** with a strong backend foundation and hands-on exp
 ## 🚀 Featured Projects
 
 ### 🍽️ RestoMind — AI-Powered Restaurant Waste Management Platform
-> Graduation project — a full-stack platform that helps restaurants reduce food waste through AI-driven insights, combining a NestJS/Node.js backend with a Next.js frontend to tackle a real-world business problem in the food service industry.
+> ITI Graduation project — a full-stack platform that helps restaurants reduce food waste through AI-driven insights, combining a NestJS/Node.js backend with a Next.js frontend to tackle a real-world business problem in the food service industry.
 🚀 [Live Demo](https://restomind.vercel.app/) | 💻 [Backend Repository](https://github.com/KhaledAlmorse/RestoMindAPI) | 🎨 [Frontend Repository](https://github.com/AhmedMohO/restomind-app) | 📑 [API Documentation](https://documenter.getpostman.com/view/28645479/2sBY4PPfia)
 
 ### 🌸 Viora Perfumes Platform
