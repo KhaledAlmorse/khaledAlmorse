@@ -8,7 +8,7 @@ I'm a **Full-Stack Developer** with a strong backend foundation and hands-on exp
 
 - 🎓 BSc in **Computer Science** — Suez Canal University (Grade: Excellent, 87%)
 - 🚀 Open Source Development Track — **ITI, Mansoura Branch** (9-month professional training program)
-- 💻 Core stack: **Node.js, NestJS, React.js, Next.js**, with additional experience in **Express.js, MongoDB, PostgreSQL, MySQL**
+- 💻 Core stack: **Node.js, NestJS, React.js, Next.js**,**Express.js, MongoDB, PostgreSQL, MySQL**
 - 🔐 Strong in **Authentication, Authorization, JWT & RBAC**
 - 🧠 Advocate for **Clean Architecture, SOLID Principles & Scalable Design**
 - 🌱 Continuously learning modern **JavaScript & TypeScript** technologies
